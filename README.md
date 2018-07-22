@@ -1,1 +1,0 @@
-# OneManGit is a go
